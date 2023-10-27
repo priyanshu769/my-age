@@ -20,6 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className="verticalCenter">
+        <h1 className='headText'>Age:</h1>
         <h1 className='time'>{age.toString().slice(0, 13)}</h1>
       </div>
     </div>

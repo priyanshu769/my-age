@@ -22,6 +22,11 @@
   transform: translate(-50%, -50%);
 }
 
+.headText {
+  text-align: center;
+  color: #001d3d;
+}
+
 @media screen and (max-width: 900px) {
   .App {
       font-size: 18px;
